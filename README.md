@@ -52,6 +52,9 @@ Coding Problem Archive는 프로그래밍 학습 및 평가를 목적으로 직�
 | 004 | 비밀번호 검증 (Password Validation) | Python, C | Easy | 제작중 |
 | 005 | 비밀번호 검증 (Password Validation) | Python, C | Normal | 제작중 |
 | 006 | 비밀번호 검증 (Password Validation) | Python, C | Hard | 제작중 |
+| 007 | 시험 감독 (Exam Supervisor) | Python,C | Easy | 제작예정 |
+| 008 | 시험 감독 (Exam Supervisor) | Python,C | Normal | 제작예정 |
+| 009 | 시험 감독 (Exam Supervisor) | Python,C | Hard | 제작예정 |
 
 ※ 새로운 문제는 지속적으로 추가될 수 있습니다.
 
