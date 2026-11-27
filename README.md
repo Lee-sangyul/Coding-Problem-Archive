@@ -44,13 +44,16 @@ Coding Problem Archive는 프로그래밍 학습 및 평가를 목적으로 직�
 
 ## 문제 목록
 
-| 번호 | 문제명 | 지원 언어 | 난이도 |
-|---|---|---|---|
-| 001 | 시저 암호 (Caesar Cipher) | Python, C | Easy |
-| 002 | 시저 암호 (Caesar Cipher) | Python, C | Normal |
-| 003 | 시저 암호 (Caesar Cipher) | Python, C | Hard |
+| 번호 | 문제명 | 지원 언어 | 난이도 | 상태 |
+|---|---|---|---|---|
+| 001 | 시저 암호 (Caesar Cipher) | Python, C | Easy | 제작완료 |
+| 002 | 시저 암호 (Caesar Cipher) | Python, C | Normal | 제작완료 |
+| 003 | 시저 암호 (Caesar Cipher) | Python, C | Hard | 제작완료 |
+| 004 | 비밀번호 검증 (Password Validation) | Python, C | Easy | 제작중 |
+| 005 | 비밀번호 검증 (Password Validation) | Python, C | Normal | 제작중 |
+| 006 | 비밀번호 검증 (Password Validation) | Python, C | Hard | 제작중 |
 
-새로운 문제는 지속적으로 추가될 수 있습니다.
+※ 새로운 문제는 지속적으로 추가될 수 있습니다.
 
 ## 문제 구성
 
